@@ -37,20 +37,3 @@ Project Organization
 ```
 ----
 
-Database: 
-- available beds = total beds - used beds
-- patients = total patients - hosted patients
-- masks = total masks - used masks
-- breath-device = total devices - used devices
-- range = (longtitude^2 + lattitude^2)^1/2
-
-Input:
-- available beds		numeric input
-- patients	numeric input	
-- masks		numeric input
-- breath-device	numeric input
-- range (km)	slider bar
-
-Output:
-- leaflet_map
-- chart (bar/line/scatter)
