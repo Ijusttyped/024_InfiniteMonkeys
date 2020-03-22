@@ -1,0 +1,15 @@
+POST /register/intensivregister?view=items HTTP/1.1
+Host: www.divi.de
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: de,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 273
+Origin: https://www.divi.de
+Connection: close
+Referer: https://www.divi.de/register/intensivregister
+Cookie: a649c1cc4076d386bf660796594a190f=aih7n8u0pdg49fjd592prqjcc2; _ga=GA1.2.240357248.1584783715; _gid=GA1.2.812702317.1584783715; _gat_gtag_UA_90544653_1=1
+Upgrade-Insecure-Requests: 1
+
+filter%5Bsearch%5D=&list%5Bfullordering%5D=a.title+ASC&list%5Blimit%5D=0&filter%5Bfederalstate%5D=0&filter%5Bchronosort%5D=0&filter%5Bicu_highcare_state%5D=&filter%5Becmo_state%5D=&filter%5Bards_network%5D=&limitstart=0&task=&boxchecked=0&3ef5a23428e61754c2d57639c8c4cb19=1
